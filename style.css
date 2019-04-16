@@ -28,8 +28,8 @@ main {
 	justify-content: center;
 }
 .home-logo {
-	width: 5vw;
-	height: 8vh;
+	width: 7vw;
+	height: 12vh;
 	padding: 3px;
 	margin-top: 4px;
 	margin-left: 4px;
@@ -124,18 +124,18 @@ footer {
 	margin-left: 0.2cm;
 	}
 	.menu {
-		margin-right: 30px;
+		margin-right: 5px;
 	}
 	.title {
 		width: 210%;
 		font-size: 5em;
 		text-align: center;
-		margin-left: 0.5cm;
+		margin-left: 1cm;
 	}
 	.subtitle {
 		width: 216%;
 		font-size: 18px;
-		margin-left: 0.5cm; 
+		margin-left: 1cm; 
 	}
 	.containerOne {
 		width: 80vw;
@@ -147,18 +147,18 @@ footer {
 	.block_text {
 		width: 240%;
 		display: flex;
-		margin-left: 0.5cm;
+		margin-left: 1cm;
 		flex-direction: column;
 	}
 	.profile-image {
 		width: 8em;
 		height: 8em;
-		margin-top: 14cm;
+		margin-top: 17cm;
 	}
 	.social-network {
 	flex-direction: column;
 	align-items: flex-start;
-	margin-top: 10cm;
+	margin-top: 11cm;
 	}
 	.social-image {
 		width: 19px;
